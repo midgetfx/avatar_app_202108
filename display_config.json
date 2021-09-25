@@ -1,17 +1,16 @@
-
 {
-   "BackgroundColor": "ffffffff",
-   "LeftTop": "2021",
-   "LeftTopMessage": ["Endless force",
-                      "The 9th Solo Exhibition"],
-
-   "RightTop": "KangCAR",
-
-   "BodyMessage": "작가님! 이렇게 불러보세요."
-
-   "RecommandMessage": ["저를 응원해 주세요",
-                        "자동차를 왜 그리는지 궁금하세요?",
-                        "이번 전시회에서는 새로운 재료를 사용했어요"]
-
-   "LeftBottom": "MINSEOK GALLERY WITH DR. KANG",
+    "BackgroundColor": "ffffffff",
+    "LeftTop": "2021",
+    "LeftTopMessage": [
+        "Endless force",
+        "The 9th Solo Exhibition"
+    ],
+    "RightTop": "KangCAR",
+    "BodyMessage": "작가님! 이렇게 불러보세요.",
+    "RecommandMessage": [
+        "저를 응원해 주세요",
+        "자동차를 왜 그리는지 궁금하세요?",
+        "이번 전시회에서는 새로운 재료를 사용했어요"
+    ],
+    "LeftBottom": "MINSEOK GALLERY WITH DR. KANG"
 }
